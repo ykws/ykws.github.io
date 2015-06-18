@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[ykws.github.io]]></title>
-  <link href="http://ykws.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: octopress | ykws.github.io]]></title>
+  <link href="http://ykws.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://ykws.github.io/"/>
   <updated>2015-06-19T00:13:40+09:00</updated>
   <id>http://ykws.github.io/</id>
